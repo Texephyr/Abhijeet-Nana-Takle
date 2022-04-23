@@ -52,12 +52,17 @@ nav ul li a:hover{
 }
 
 .head2 h2{
+    padding: 0 2%;
     background-color: black;
     position: absolute;
     left: 10%;
     font-family: 'Roboto',sans-serif;
     font-weight: 500;
     font-size: 30px;
+}
+
+.sec{
+    margin: 1% 0 3% 0
 }
 
 .sec p{
